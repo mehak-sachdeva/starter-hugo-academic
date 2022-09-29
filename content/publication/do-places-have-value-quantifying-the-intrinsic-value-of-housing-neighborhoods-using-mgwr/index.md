@@ -9,7 +9,7 @@ authors:
   - Fotheringham
   - S.
   - and Li
-  - Z.
+  - Z
 doi: 10.1080/10527001.2021.2003505
 publication: Journal of Housing Research 0(0):1–29
 draft: false
