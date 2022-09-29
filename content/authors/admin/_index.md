@@ -10,19 +10,19 @@ interests:
   - Information Retrieval
 social:
   - icon: envelope
-    icon_pack: ai
+    icon_pack: far
     link: mailto:mehaksachdeva@asu.edu
   - icon: twitter
-    icon_pack: ai
+    icon_pack: fab
     link: https://twitter.com/MehakSachdeva_
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=w5CaZhQAAAAJ&hl=en
   - icon: github
-    icon_pack: ai
+    icon_pack: fab
     link: https://github.com/mehak-sachdeva
   - icon: linkedin
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.linkedin.com/in/ms4978/
 organizations:
   - name: Spatial Analysis Research Center, ASU
