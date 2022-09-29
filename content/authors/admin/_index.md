@@ -37,7 +37,7 @@ education:
       year: 2016
     - course: Bachelors in Architecture and landscape ecology
       institution: The Maharaja SayajiRao University of Baroda, India
-      year: 2010
+      year: 2013
 email: ""
 superuser: true
 highlight_name: true
