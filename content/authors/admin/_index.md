@@ -39,9 +39,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a Postdoctoral Research Scholar at the Spatial Analysis Research Center at ASU. I recently completed my PhD in Geographic Information Science with a focus on computational methods and local regression models to analyze urban processes with applications in crime, housing markets and urban health outcomes amongst others. I have prior experience as a geospatial data scientist at Carto (a SaaS web-mapping platform) and have a graduate degree in urban planning and analytics from Columbia University and an undergraduate degree and professional background in architecture. As a passionate researcher and an urban enthusiast, everything I have engaged in so far has been driven by a keen interest in the coexistence of urbanity and ecology and the impact of human footprint on the environment.\
+\
+In her spare time I run, hike, paint and read.
