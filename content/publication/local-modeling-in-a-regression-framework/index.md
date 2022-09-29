@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Sachdeva
   - Oshan & Fotheringham
-publication: Spatial Analysis in the Social Sciences Handbook
+publication: Spatial Analysis in the Social Sciences Handbook, eds. S. Rey and R. Franklin.
 draft: false
 featured: false
 image:
