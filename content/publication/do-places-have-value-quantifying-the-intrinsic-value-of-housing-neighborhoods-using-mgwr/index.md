@@ -5,7 +5,6 @@ publication_types:
   - "2"
 authors:
   - Sachdeva
-  - M.
   - Fotheringham
   - A S.
   - Li
