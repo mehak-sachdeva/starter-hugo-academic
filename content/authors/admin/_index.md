@@ -10,20 +10,20 @@ interests:
   - Information Retrieval
 social:
   - icon: envelope
-    icon_pack: fas
-    link: /#contact
+    icon_pack: ai
+    link: mailto:mehaksachdeva@asu.edu
   - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    icon_pack: ai
+    link: https://twitter.com/MehakSachdeva_
   - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=w5CaZhQAAAAJ&hl=en
   - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    icon_pack: ai
+    link: https://github.com/mehak-sachdeva
   - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    icon_pack: ai
+    link: https://www.linkedin.com/in/ms4978/
 organizations:
   - name: Spatial Analysis Research Center, ASU
     url: https://sgsup.asu.edu/SPARC
