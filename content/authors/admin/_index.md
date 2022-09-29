@@ -1,7 +1,7 @@
 ---
 title: Mehak Sachdeva
 role: Postdoctoral Research Scholar in Geographic Information Science
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
