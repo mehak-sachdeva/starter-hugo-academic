@@ -9,9 +9,7 @@ authors:
   - L. J.
   - Sachdeva
   - M.
-  - Bardin
-  - S.
-  - "& Fotheringham"
+  - Bardin & Fotheringham
   - A. S.
 doi: https://doi.org/10.1007/s10109-022-00384-8
 publication: Journal of Geographical Systems
