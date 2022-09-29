@@ -3,9 +3,7 @@ title: On the importance of thinking locally for statistics and society.
 publication_types:
   - "2"
 authors:
-  - Fotheringham
-  - A.S. & Sachdeva
-  - M.
+  - Fotheringham & Sachdeva
 doi: 10.1016/j.spasta.2022.100601
 publication: Spatial Statistics
 draft: false
