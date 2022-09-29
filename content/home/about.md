@@ -4,6 +4,6 @@ widget_id: about
 headless: true
 weight: 20
 title: ""
-active: false
+active: true
 author: admin
 ---
