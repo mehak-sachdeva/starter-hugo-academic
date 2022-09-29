@@ -32,8 +32,8 @@ education:
     - course: Masters in Urban and Regional Planning
       institution: Columbia University
       year: 2016
-    - course: Bachelors in Architecture and landscape ecology
-      institution: The Maharaja SayajiRao University of Baroda, India
+    - course: Bachelors in Architecture
+      institution: The Maharaja Sayajirao University of Baroda, India
       year: 2013
 email: ""
 superuser: true
