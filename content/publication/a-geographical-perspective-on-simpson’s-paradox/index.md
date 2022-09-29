@@ -1,5 +1,6 @@
 ---
 title: A Geographical Perspective on Simpson’s Paradox
+subtitle: under review
 publication_types:
   - "3"
 authors:
