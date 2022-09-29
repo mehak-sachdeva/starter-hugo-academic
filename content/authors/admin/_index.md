@@ -42,6 +42,7 @@ highlight_name: true
 <!---<iframe src="https://team.carto.com/u/mehak-carto/builder/30609f6c-3b35-11e7-952f-0e05a8b3e3d7/embed" height="500" width=100%></iframe>--->
 <p style='text-align: justify;'> I am a Postdoctoral Research Scholar at the Spatial Analysis Research Center at ASU. I recently completed my PhD in Geographic Information Science with a focus on computational methods and local regression models to analyze urban processes with applications in crime, housing markets and urban health outcomes amongst others. I have prior experience as a geospatial data scientist at Carto (a SaaS web-mapping platform) and have a graduate degree in urban planning and analytics from Columbia University and an undergraduate degree and professional background in architecture. As a passionate researcher and an urban enthusiast, everything I have engaged in so far has been driven by a keen interest in the coexistence of urbanity and ecology and the impact of human footprint on the environment.</p>
 <p>In my spare time I run, hike, paint and read.</p>
-<img src="/uploads/age_parameter_panel.png" alt="demo" class="img-responsive" width=30%><img src="/uploads/cropped_sp_gif.gif" alt="demo" class="img-responsive" width=30%>
+<img src="/uploads/age_parameter_panel.png" alt="demo" class="img-responsive" width=30%>
+<img src="/uploads/cropped_sp_gif.gif" alt="demo" class="img-responsive" width=30%>
 
 
