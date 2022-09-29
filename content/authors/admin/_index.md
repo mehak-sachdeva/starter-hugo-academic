@@ -29,10 +29,10 @@ education:
     - course: PhD in Geographic Information Science
       institution: Arizona State University
       year: 2022
-    - course: Masters in Urban and Regional Planning
+    - course: Master of Science in Urban Planning
       institution: Columbia University
       year: 2016
-    - course: Bachelors in Architecture
+    - course: Bachelor of Architecture
       institution: The Maharaja Sayajirao University of Baroda, India
       year: 2013
 email: ""
