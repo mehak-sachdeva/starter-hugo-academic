@@ -4,12 +4,8 @@ publication_types:
   - "0"
 authors:
   - Sachdeva
-  - M.
   - Fotheringham
-  - A.S.
-  - Li
-  - Z. and Yu
-  - H.
+  - Li & Yu
 doi: 10.1111/gean.12297
 publication: Geographical Analysis.
 draft: false
