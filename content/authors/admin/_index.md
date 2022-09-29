@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Geographic Information Science
       institution: Arizona State University
-      year: 2019
+      year: 2022
     - course: Masters in Urban and Regional Planning
       institution: Columbia University
       year: 2016
