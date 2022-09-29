@@ -8,7 +8,7 @@ authors:
   - P.
   - Quick
   - M.
-  - Hilgendorf and Sachdeva
+  - Hilgendorf & Sachdeva
   - M.
 doi: 10.1080/03098265.2021.1901076.
 publication: Journal of Geography in Higher Education
