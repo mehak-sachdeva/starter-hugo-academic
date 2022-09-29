@@ -25,19 +25,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Spatial Analysis Research Center, ASU
+    url: https://sgsup.asu.edu/SPARC
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Geographic Information Science
+      institution: Arizona State University
+      year: 2019
+    - course: Masters in Urban and Regional Planning
+      institution: Columbia University
+      year: 2016
+    - course: Bachelors in Architecture and landscape ecology
+      institution: The Maharaja SayajiRao University of Baroda, India
+      year: 2010
 email: ""
 superuser: true
 highlight_name: true
