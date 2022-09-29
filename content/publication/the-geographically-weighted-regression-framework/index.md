@@ -3,10 +3,7 @@ title: The Geographically Weighted Regression Framework.
 publication_types:
   - "6"
 authors:
-  - Sachdeva
-  - M.
-  - and Fotheringham
-  - A. S.
+  - Sachdeva & Fotheringham
 doi: 10.22224/gistbok/2020.4.7
 publication: The Geographic Information Science & Technology Body of Knowledge
   (4th Quarter 2020 Edition)
