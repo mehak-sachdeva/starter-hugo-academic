@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-[M﻿aterials used in the workshop] (https://deepnote.com/@mehak-sachdeva/Nagoya-University-workshop-I-780a79d5-505f-4aa8-b714-9257c551af02)
+[Materials used in the workshop](https://deepnote.com/@mehak-sachdeva/Nagoya-University-workshop-I-780a79d5-505f-4aa8-b714-9257c551af02)
