@@ -46,5 +46,6 @@ highlight_name: true
 <img  align="left" src="/uploads/age_parameter_panel.png" alt="demo" class="img-responsive" width=55%>
 <img align="right" src="/uploads/cropped_sp_gif.gif" alt="demo" class="img-responsive" width=45%>
 
+
 <p> In my spare time I run, hike, paint and read.</p>
 
