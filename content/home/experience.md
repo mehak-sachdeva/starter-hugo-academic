@@ -97,5 +97,5 @@ weight: 40
 title: Professional Experience
 subtitle: null
 design:
-  columns: "2"
+  columns: "3"
 ---
