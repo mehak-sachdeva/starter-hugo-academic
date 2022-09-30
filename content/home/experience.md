@@ -54,8 +54,6 @@ experience:
 
   - title: Data Analyst and Developer
     company: SHoP Architects and Center for Spatial Design
-    company_url: ""
-    company_logo: org-CSD
     location: Manhattan, NYC
     date_start: 2015-01-01
     date_end: 2016-01-01
@@ -66,8 +64,6 @@ experience:
        
   - title: Resiliency Planning Intern
     company: New York City Department of City Planning
-    company_url: ""
-    company_logo: org-DCP
     location: Staten Island, NYC
     date_start: 2015-05-01
     date_end: 2015-08-01
