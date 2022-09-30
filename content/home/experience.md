@@ -10,7 +10,7 @@ experience:
     location: Brooklyn, NYC
     date_start: 2016-06-06
     date_end: 2017-08-08
-    description:|-2
+    description:|-4
         Responsibilities include:
 
         * Analysing
