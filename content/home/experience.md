@@ -32,8 +32,6 @@ experience:
 
   - title: Urban Planner
     company: GWW Planning and Consultancy
-    company_url: 
-    company_logo: 
     location: Manhattan, NYC
     date_start: 2016-05-05
     date_end: 2016-08-06
@@ -41,55 +39,6 @@ experience:
         Responsibilities include:
 
         * Drafting planning ideas for neighborhood projects
-  - title: Development Intern
-    company: New York City Economic Development Corporation
-    company_url: https://edc.nyc/
-    company_logo: org-Education
-    location: Manhattan, NYC
-    date_start: 2016-01-01
-    date_end: 2016-05-05
-    description: |-2
-        Responsibilities include:
-
-        * Analysis for neighborhood planning projects
-        * Community engagement and meetings
-  - title: Data Analyst and Developer
-    company: SHoP Architects and Center for Spatial Design
-    company_url: 
-    company_logo: 
-    location: Manhattan, NYC
-    date_start: 2015-01-01
-    date_end: 2016-01-01
-    description: |-2
-        Responsibilities include:
-
-        * Creating clean network data for node analysis
-  - title: Resiliency Planning Intern
-    company: New York City Department of City Planning
-    company_url: 
-    company_logo: 
-    location: Staten Island, NYC
-    date_start: 2015-05-01
-    date_end: 2015-08-01
-    description: >-2
-        Responsibilities include:
-
-        * Planning for the resilient neighborhoods projects
-        * Contributed to drafting [resilient neighborhoods report](https://www1.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/east-shore/summary-report-east-shore.pdf)
-  - title: Architect
-    company: Vastu Shilpa Consultants - Sangath
-    company_url: https://www.sangath.org/
-    company_logo: 
-    location: Ahmedabad, India
-    date_start: 2013-05-01
-    date_end: 2014-07-01
-    description: |-2
-        Responsibilities include:
-
-        * Designing for institutional projects
-        * Drafting ideas for design competitions
-        * Working drawings for on-site construction
-
 
 widget_id: experience
 headless: true
