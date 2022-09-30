@@ -3,7 +3,7 @@ widget: pages
 widget_id: talks
 headless: true
 weight: 63
-title: Presentations and Workshops
+title: Select presentations and workshops
 subtitle: null
 content:
   page_type: event
