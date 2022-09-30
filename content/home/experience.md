@@ -10,7 +10,7 @@ experience:
     location: Brooklyn, NYC
     date_start: 2016-06-06
     date_end: 2017-08-08
-    description: >-
+    description:|-2
         Responsibilities include:
 
         * Analysing
@@ -24,7 +24,7 @@ experience:
     location: Brooklyn, NYC
     date_start: 2016-05-05
     date_end: 2016-06-06
-    description: >-
+    description: |-2
         Responsibilities include:
 
         * Contributing to Carto Academy
