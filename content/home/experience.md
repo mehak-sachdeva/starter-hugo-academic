@@ -32,7 +32,7 @@ experience:
 
   - title: Urban Planner
     company: GWW Planning and Consultancy
-    company_url: ""
+    company_url: 
     company_logo: ''
     location: Manhattan, NYC
     date_start: 2016-05-05
@@ -55,7 +55,7 @@ experience:
         * Community engagement and meetings
   - title: Data Analyst and Developer
     company: SHoP Architects and Center for Spatial Design
-    company_url: ""
+    company_url: 
     company_logo: ''
     location: Manhattan, NYC
     date_start: 2015-01-01
@@ -66,7 +66,7 @@ experience:
         * Creating clean network data for node analysis
   - title: Resiliency Planning Intern
     company: New York City Department of City Planning
-    company_url: ""
+    company_url: 
     company_logo: ''
     location: Staten Island, NYC
     date_start: 2015-05-01
