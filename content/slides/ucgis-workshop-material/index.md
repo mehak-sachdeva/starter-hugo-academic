@@ -9,4 +9,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-[M﻿GWR workshop](https://mehak-sachdeva.github.io/MGWR_workshop_book/)
+Materials presented at the UCGIS Symposium 2020
+[M﻿GWR workshop book](https://mehak-sachdeva.github.io/MGWR_workshop_book/) | [UCGIS Symposium workshop video](https://www.youtube.com/watch?v=o8lDAJaFZfU)
