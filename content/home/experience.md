@@ -6,7 +6,7 @@ experience:
   - title: Geospatial Data Scientist
     company: CARTO
     company_url: https://carto.com/
-    company_logo: CARTO-logo
+    company_logo: carto_trial
     location: Brooklyn, NYC
     date_start: 2016-06-06
     date_end: 2017-08-08
@@ -20,7 +20,7 @@ experience:
   - title: Education and Data Intern
     company: CARTO
     company_url: https://carto.com/
-    company_logo: CARTO-logo
+    company_logo: carto_trial
     location: Brooklyn, NYC
     date_start: 2016-05-05
     date_end: 2016-06-06
