@@ -34,7 +34,7 @@ featured: false
 projects:
   - simpsons_paradox
 image:
-  filename: feature.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
