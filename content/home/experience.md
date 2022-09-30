@@ -74,6 +74,19 @@ experience:
         * Contributed to drafting [resilient neighborhoods report](https://www1.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/east-shore/summary-report-east-shore.pdf)
 
 
+  - title: Architect
+    company: Vastu Shilpa Consultants - Sangath
+    company_url: https://www.sangath.org/
+    location: Ahmedabad, India
+    date_start: 2013-05-01
+    date_end: 2014-07-01
+    description: |-2
+        Responsibilities include:
+
+        * Designing for institutional projects
+        * Drafting ideas for design competitions
+        * Working drawings for on-site construction
+
 
 widget_id: experience
 headless: true
