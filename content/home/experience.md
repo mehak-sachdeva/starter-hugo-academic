@@ -3,32 +3,101 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ""
-    company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
-    date_end: ""
+  - title: Geospatial Data Scientist
+    company: CARTO
+    company_url: https://carto.com/
+    company_logo: org-CARTO
+    location: Brooklyn, NYC
+    date_start: 2016-06-06
+    date_end: 2017-08-08
     description: |-2
         Responsibilities include:
-        
+
         * Analysing
-        * Modelling
-        * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Modeling
+        * Deploying new tools within the Carto environment
+        * Contributing to Carto Academy
+  - title: Education and Data Intern
+    company: CARTO
+    company_url: https://carto.com/
+    company_logo: org-CARTO
+    location: Brooklyn, NYC
+    date_start: 2016-05-05
+    date_end: 2016-06-06
+    description:  |-2
+        Responsibilities include:
+
+        * Contributing to Carto Academy
+        * Held workshops to promote use of geospatial technologies
+  - title: Urban Planner
+    company: GWW Planning and Consultancy
     company_url: ""
-    company_logo: org-x
-    location: California
+    company_logo: org-GWW
+    location: Manhattan, NYC
+    date_start: 2016-05-05
+    date_end: 2016-08-06
+    description:  |-2
+        Responsibilities include:
+
+        * Drafting planning ideas for neighborhood projects
+
+  - title: Development Intern
+    company: New York City Economic Development Corporation
+    company_url: https://edc.nyc/
+    company_logo: org-Education
+    location: Manhattan, NYC
     date_start: 2016-01-01
-    date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_end: 2016-05-05
+    description:  |-2
+        Responsibilities include:
+
+        * Analysis for neighborhood planning projects
+        * Community engagement and meetings
+
+  - title: Data Analyst and Developer
+    company: SHoP Architects and Center for Spatial Design
+    company_url: ""
+    company_logo: org-CSD
+    location: Manhattan, NYC
+    date_start: 2015-01-01
+    date_end: 2016-01-01
+    description:  |-2
+        Responsibilities include:
+
+        * Creating clean network data for node analysis
+
+  - title: Resiliency Planning Intern
+    company: New York City Department of City Planning
+    company_url: ""
+    company_logo: org-DCP
+    location: Staten Island, NYC
+    date_start: 2015-05-01
+    date_end: 2015-08-01
+    description:  |-2
+        Responsibilities include:
+
+        * Planning for the resilient neighborhoods projects
+        * Contributed to drafting [resilient neighborhoods report](https://www1.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/east-shore/summary-report-east-shore.pdf)
+
+  - title: Architect
+    company: Vastu Shilpa Consultants - Sangath
+    company_url: https://www.sangath.org/
+    company_logo: org-Sangath
+    location: Ahmedabad, India
+    date_start: 2013-05-01
+    date_end: 2014-07-01
+    description:  |-2
+        Responsibilities include:
+
+        * Designing for institutional projects
+        * Drafting ideas for design competitions
+        * Working drawings for on-site construction
+
 widget_id: experience
 headless: true
 weight: 40
 title: Professional Experience
 subtitle: null
 design:
-  columns: "2"
+  columns: "7"
 ---
