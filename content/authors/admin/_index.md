@@ -47,4 +47,6 @@ Representative research on a geographical perspective on Simpson's Paradox and t
 
 <img  align="left" src="/uploads/age_parameter_panel.png" alt="demo" class="img-responsive" width=55%>
 <img align="right" src="/uploads/cropped_sp_gif.gif" alt="demo" class="img-responsive" width=45%>
-<﻿br>In my spare time I run, hike, paint and read.<\br>
+
+
+In my spare time I run, hike, paint and read.
