@@ -18,6 +18,7 @@ abstract: >-
   over a continuum of spatial scales as is done for example with a correlogram?
   From this can we identify critical changes in process scale?
 
+
   (This presentation was awarded the 1st place in student research lightning talks.)
 location: Virtual oral presentation at University Consortium for Geographic
   Information Science (UCGIS) Symposium 2021
