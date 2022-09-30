@@ -22,7 +22,7 @@ all_day: false
 event: "[UCGIS workshops 2020](https://www.ucgis.org/workshops-2020)"
 event_url: https://www.youtube.com/watch?v=o8lDAJaFZfU
 publishDate: 2022-09-30T22:06:51.511Z
-slides: ucgis_workshop
+slides: ucgis-workshop-material
 draft: false
 featured: false
 projects:
