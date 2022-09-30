@@ -39,8 +39,8 @@ experience:
         Responsibilities include:
 
         * Drafting planning ideas for neighborhood projects
-
- - title: Development Intern
+        
+  - title: Development Intern
     company: New York City Economic Development Corporation
     company_url: https://edc.nyc/
     location: Manhattan, NYC
