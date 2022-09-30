@@ -44,11 +44,11 @@ highlight_name: true
 <p style='text-align: justify;'> I am a Postdoctoral Research Scholar at the Spatial Analysis Research Center at ASU. I recently completed my PhD in Geographic Information Science with a focus on computational methods and local regression models to analyze urban processes with applications in crime, housing markets and urban health outcomes amongst others. I have prior experience as a geospatial data scientist at Carto (a SaaS web-mapping platform) and have a graduate degree in urban planning and analytics from Columbia University and an undergraduate degree and professional background in architecture. As a passionate researcher and an urban enthusiast, everything I have engaged in so far has been driven by a keen interest in the coexistence of urbanity and ecology and the impact of human footprint on the environment.</p>
 
 
-Representative research on a geographical perspective on Simpson's Paradox and the scale of processes between local and global models.
+Representative research on a geographical perspective on Simpson's Paradox and the scale of processes between local and global models:
 
 <img  align="left" src="/uploads/age_parameter_panel.png" alt="demo" class="img-responsive" width=55%>
 <img align="right" src="/uploads/cropped_sp_gif.gif" alt="demo" class="img-responsive" width=45%>
 
-
+<﻿\br>
 
 In my spare time I run, hike, paint and read.
