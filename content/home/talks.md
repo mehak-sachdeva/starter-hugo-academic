@@ -2,7 +2,7 @@
 widget: pages
 widget_id: talks
 headless: true
-weight: 70
+weight: 63
 title: Presentations and Workshops
 subtitle: null
 content:
