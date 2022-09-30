@@ -6,7 +6,7 @@ experience:
   - title: 'Geospatial Data Scientist'
     company: 'CARTO'
     company_url: 'https://carto.com/'
-    company_logo: carto_trial
+    company_logo: carto-center
     location: 'Brooklyn, NYC'
     date_start: '2016-06-06'
     date_end: '2017-08-08'
