@@ -31,7 +31,7 @@ slides: ucgis_talk
 draft: false
 featured: false
 image:
-  filename: feature.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
