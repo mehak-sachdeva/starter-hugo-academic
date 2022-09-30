@@ -25,7 +25,7 @@ featured: false
 projects:
   - nagoya_workshop
 image:
-  filename: workshop.png
+  filename: feature.png
   focal_point: Smart
   preview_only: false
 ---
