@@ -28,7 +28,7 @@ featured: false
 projects:
   - ucgis_workshop
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
