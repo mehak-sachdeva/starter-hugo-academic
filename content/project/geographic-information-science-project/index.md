@@ -6,6 +6,7 @@ draft: false
 featured: false
 tags:
   - GIS
+  - Environmental
 image:
   filename: featured.png
   focal_point: Smart
