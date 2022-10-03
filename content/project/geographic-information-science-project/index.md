@@ -1,9 +1,13 @@
 ---
 title: Environmental justice study - New York City and Chicago
-subtitle: Geographic Information Science I - project report
+subtitle: Geographic Information Science I - project report (November, 2014)
 date: 2022-10-03T18:13:25.811Z
 draft: false
 featured: false
+tags:
+  - GIS
+  - Urban-Planning
+  - Environmental
 image:
   filename: featured.png
   focal_point: Smart
