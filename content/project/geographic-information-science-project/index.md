@@ -15,7 +15,7 @@ Highways, Toxic Release Inventories (TRI) and Stationary Pollutant Sources (SPS)
 These areas of focus were then studied for land-use proximities and environmental justice impacts.
 
 
-![Example image](assets/media/gis_report.png)
+![Example image](/assets/media/gis_report.png)
 
 
 [<img src="https://github.com/mehak-sachdeva/starter-hugo-academic/blob/main/static/uploads/GIS_report.PNG">](https://drive.google.com/file/d/13ZEroVJSC_GL-yMoGZv622RLAaL1YSrY/view?usp=sharing)
