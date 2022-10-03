@@ -27,8 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: GIS
+      tag: GIS
+    - name: Urban Planning
+      tag: Urban Planning
+    - name: Environmental
+      tag: Environmental
+    - name: Transportation
+      tag: Transportation
     - name: Other
       tag: Demo
 
