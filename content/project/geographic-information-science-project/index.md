@@ -7,6 +7,7 @@ featured: false
 tags:
   - GIS
   - Environmental
+  - Urban-Planning
 image:
   filename: featured.png
   focal_point: Smart
