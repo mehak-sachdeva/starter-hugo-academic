@@ -17,12 +17,6 @@ These areas of focus were then studied for land-use proximities and environmenta
 [P﻿roject report](https://drive.google.com/file/d/13ZEroVJSC_GL-yMoGZv622RLAaL1YSrY/view?usp=sharing)
 ![GI](../../GIS_report_img.png)
 
-
-[<img src="https://github.com/mehak-sachdeva/starter-hugo-academic/blob/main/static/uploads/GIS_report.PNG">](https://drive.google.com/file/d/13ZEroVJSC_GL-yMoGZv622RLAaL1YSrY/view?usp=sharing)
-
-
-
 <object data="../../GIS_Report_smaller.pdf" width="2000" height="1000" type='application/pdf'></object>
-
 
 {{< embed-pdf url="../../GIS_Report_smaller.pdf" hideLoader="true">}}
