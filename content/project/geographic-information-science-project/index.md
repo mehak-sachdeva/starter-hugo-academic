@@ -21,5 +21,5 @@ These areas of focus were then studied for land-use proximities and environmenta
 
 Please use the link here if the pdf embed does not load:
 [P﻿roject report](https://drive.google.com/file/d/13ZEroVJSC_GL-yMoGZv622RLAaL1YSrY/view?usp=sharing)
-![GI](../../GIS_report_img.png)
+
 
