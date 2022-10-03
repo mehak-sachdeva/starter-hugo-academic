@@ -16,7 +16,7 @@ These areas of focus were then studied for land-use proximities and environmenta
 
 [<img src="./content/home/GIS_report.PNG">](https://drive.google.com/file/d/13ZEroVJSC_GL-yMoGZv622RLAaL1YSrY/view?usp=sharing)
 
-[P﻿roject report] (!https://drive.google.com/file/d/13ZEroVJSC_GL-yMoGZv622RLAaL1YSrY/view?usp=sharing)
+[P﻿roject report](https://drive.google.com/file/d/13ZEroVJSC_GL-yMoGZv622RLAaL1YSrY/view?usp=sharing)
 
 <object data="./content/home/GIS_Report_smallest.pdf" width="1000" height="1000" type='application/pdf'></object>
 
