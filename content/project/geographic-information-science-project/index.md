@@ -21,6 +21,6 @@ These areas of focus were then studied for land-use proximities and environmenta
 
 P﻿DF below
 
-<object data="../../GIS_Report_smaller.pdf" width="2000" height="1000" type='application/pdf'></object>
+<object data="../../GIS_Report_smaller.pdf" width="100%" height="100%" type='application/pdf'></object>
 
 {{< embed-pdf url="../../GIS_Report_smaller.pdf" hideLoader="true">}}
