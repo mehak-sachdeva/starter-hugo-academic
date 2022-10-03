@@ -22,7 +22,7 @@ These areas of focus were then studied for land-use proximities and environmenta
 
 
 
-<object data="./content/home/GIS_Report_smaller.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../../GIS_Report_smaller.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <script src= '../../js/pdf-js/build/pdf.js'></script>
 {{< embed-pdf url="../../GIS_Report_smaller.pdf" hideLoader="true">}}
