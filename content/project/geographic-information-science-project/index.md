@@ -14,7 +14,5 @@ Concerned with environmental injustice and the many ill-impacts it has on the re
 Highways, Toxic Release Inventories (TRI) and Stationary Pollutant Sources (SPS) were buffered and intersected to define an area of concern. Public schools were geocoded and then overlapped to define major areas of focus.
 These areas of focus were then studied for land-use proximities and environmental justice impacts.
 
-<script src= '/js/pdf-js/build/pdf.js'>
 {{<embed-pdf url="Mehak_Sachdeva_GIS_Report.pdf" hidePaginator="true">}}
-</script>
 
