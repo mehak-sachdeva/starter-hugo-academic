@@ -5,9 +5,7 @@ date: 2022-10-03T18:13:25.811Z
 draft: false
 featured: false
 tags:
-  - GIS
-  - Urban-Planning
-  - Environmental
+  - GIS; Urban-Planning; Environmental
 image:
   filename: featured.png
   focal_point: Smart
