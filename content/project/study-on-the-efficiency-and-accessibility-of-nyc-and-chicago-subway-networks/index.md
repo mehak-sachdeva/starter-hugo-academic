@@ -28,7 +28,7 @@ no income-based or race-based discrimination is observed.
 The scope of the project included subway networks out of the entire transit network system, further similar
 analysis of bus routes etc can lead to results for transit efficiency as a whole.
 
-<object data="../../Advanced_GIS_MS.pdf" width="100%" height="1000" type='application/pdf'></object>
+<object data="../../Advanced_GIS_MS.pdf" width="100%" height="800" type='application/pdf'></object>
 
 Please use the link here if the pdf embed does not load:
 [P﻿roject report](https://drive.google.com/file/d/169v6BMqUP320DxEyu9NfyRMpOt4vspgC/view?usp=sharing)
