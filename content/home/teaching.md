@@ -15,8 +15,8 @@ experience:
   - title: Instructor
     company: GIS-322 - Programming Principles in GIS II
     location: ASU, online
-    date_start: 2022-06-05
-    date_end: 2022-07-06
+    date_start: 2022-07-01
+    date_end: 2022-08-08
     description: |-2
         Responsibilities include:
         * Teaching
@@ -33,8 +33,8 @@ experience:
   - title: Instructor
     company: GIS-322 - Programming Principles in GIS II
     location: ASU, online
-    date_start: 2021-06-05
-    date_end: 2021-07-06
+    date_start: 2021-07-01
+    date_end: 2021-08-10
     description: |-2
         Responsibilities include:
         * Teaching
