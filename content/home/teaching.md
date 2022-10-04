@@ -82,7 +82,7 @@ experience:
         * Working drawings for on-site construction
 widget_id: teaching
 headless: true
-weight: 77
+weight: 70
 title: Teaching Experience
 subtitle: null
 design:
