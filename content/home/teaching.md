@@ -8,7 +8,7 @@ experience:
     location: Brooklyn, NYC
     date_start: 2016-06-06
     date_end: 2017-08-08
-  - title: Geospatial Data Scientist
+  - title: Data Scientist
     company: CARTO
     location: Brooklyn, NYC
     date_start: 2016-06-06
