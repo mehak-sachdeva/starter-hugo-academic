@@ -55,10 +55,10 @@ experience:
     date_end: 2016-05-06
     description: |-2
         Responsibilities include:
-        * 
+        * [Syllabus](https://github.com/juanfrans-courses/advanced-gis/blob/master/Fall_2015/Syllabus.md)
 
   - title: Graduate Teaching Assistant
-    company: Sustainable Urban Development: International Perspectives
+    company: Sustainable Urban Development - International Perspectives
     location: Columbia University, NYC
     date_start: 2015-02-05
     date_end: 2015-05-06
