@@ -5,8 +5,6 @@ date_format: Jan 2006
 experience:
   - title: Co-Instructor
     company: CARTO
-    company_url: https://carto.com/
-    company_logo: ""
     location: Brooklyn, NYC
     date_start: 2016-06-06
     date_end: 2017-08-08
