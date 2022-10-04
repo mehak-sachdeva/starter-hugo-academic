@@ -17,7 +17,7 @@ main:
     url: '#talks'
     weight: 30
   - name: Teaching
-    url: '#teaching'
+    url: '#teaching-1'
     weight: 50
   - name: Experience
     url: '#experience'
