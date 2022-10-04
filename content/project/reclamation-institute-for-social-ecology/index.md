@@ -4,6 +4,9 @@ subtitle: Architectural thesis (2013)
 date: 2022-10-04T22:14:09.804Z
 draft: false
 featured: false
+tags:
+  - Architecture
+  - Environmental
 image:
   filename: featured.png
   focal_point: Smart
@@ -14,4 +17,4 @@ In 2013, deeply concerned about rampant mining in some parts of India and their 
 <object data="../../thesis report po.pdf" width="100%" height="1200" type='application/pdf'></object>
 
 Please use the link here if the pdf embed does not load:
-[P﻿roject report](https://drive.google.com/file/d/13ZEroVJSC_GL-yMoGZv622RLAaL1YSrY/view?usp=sharing)
+[P﻿roject report](https://drive.google.com/file/d/1n05tRMavNmFHuoGruwhpfqdiSKGgYExG/view?usp=sharing)
