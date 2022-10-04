@@ -13,13 +13,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Concerned with environmental injustice and the many ill-impacts it has on the residents of affected neighborhoods, I realized through existing literature that there were sources of toxic air pollutants existing within close proximity to our daily land-uses. Looking at the major point source - pollutant map of United States, we clearly see a definite density in New York City and Chicago, taken as the two cases of comparison here.
+<div style="text-align: justify">Concerned with environmental injustice and the many ill-impacts it has on the residents of affected neighborhoods, I realized through existing literature that there were sources of toxic air pollutants existing within close proximity to our daily land-uses. Looking at the major point source - pollutant map of United States, we clearly see a definite density in New York City and Chicago, taken as the two cases of comparison here.</div>
 
 ![NYC](../../GIS_I.png)
 ![chicago](../../chicago.PNG)
 
-Highways, Toxic Release Inventories (TRI) and Stationary Pollutant Sources (SPS) were buffered and intersected to define an area of concern. Public schools were geocoded and then overlapped to define major areas of focus.
-These areas of focus were then studied for land-use proximities and environmental justice impacts.
+<div style="text-align: justify"> Highways, Toxic Release Inventories (TRI) and Stationary Pollutant Sources (SPS) were buffered and intersected to define an area of concern. Public schools were geocoded and then overlapped to define major areas of focus.
+These areas of focus were then studied for land-use proximities and environmental justice impacts.</div>
 
 <object data="../../GIS_Report_smaller.pdf" width="100%" height="1200" type='application/pdf'></object>
 
