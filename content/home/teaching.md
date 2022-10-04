@@ -4,16 +4,18 @@ active: true
 date_format: Jan 2006
 experience:
   - title: Co-Instructor
-    company: GIS-563: Local Statistical Modeling
+    company: GIS-563 - Local Statistical Modeling
     company_url: ""
     company_logo: ""
     location: ASU, Tempe
     date_start: 2022-10-10
     date_end: 202-12-08
     description: |-2
-       
+        Responsibilities include:
+        * Teaching
+        
   - title: Instructor
-    company: GIS-322: Programming Principles in GIS
+    company: GIS-322 - Programming Principles in GIS
     company_url: ""
     company_logo: ""
     location: ASU, online
@@ -21,6 +23,7 @@ experience:
     date_end: 2022-07-06
     description: |-2
         Responsibilities include:
+        * Teaching
 
         
 widget_id: teaching
