@@ -23,4 +23,4 @@ Our project proposal aims towards promoting advocacy planning which as a theoret
 <object data="../../Resilient_island_project.pdf" width="100%" height="1200" type='application/pdf'></object>
 
 Please use the link here if the pdf embed does not load:
-[P﻿roject report](https://drive.google.com/file/d/13ZEroVJSC_GL-yMoGZv622RLAaL1YSrY/view?usp=sharing)
+[P﻿roject report](https://drive.google.com/file/d/1eOty8jyDBDxzkwzGnPc0FLi60Ui_iDX3/view?usp=sharing)
