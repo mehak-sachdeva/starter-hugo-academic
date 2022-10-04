@@ -1,5 +1,5 @@
 ---
-widget: Teaching
+widget: teaching
 active: true
 date_format: Jan 2006
 experience:
@@ -80,7 +80,7 @@ experience:
         * Designing for institutional projects
         * Drafting ideas for design competitions
         * Working drawings for on-site construction
-widget_id: Teaching
+widget_id: teaching
 headless: true
 weight: 77
 title: Teaching Experience
