@@ -9,7 +9,7 @@ experience:
     company_logo: ""
     location: ASU, Tempe
     date_start: 2022-10-10
-    date_end: 202-12-08
+    date_end: 2022-12-08
     description: |-2
         Responsibilities include:
         * Teaching
