@@ -55,7 +55,7 @@ experience:
     date_end: 2016-05-06
     description: |-2
         Responsibilities include:
-        * [Syllabus](https://github.com/juanfrans-courses/advanced-gis/blob/master/Fall_2015/Syllabus.md)
+        * 
 
   - title: Graduate Teaching Assistant
     company: Sustainable Urban Development: International Perspectives
