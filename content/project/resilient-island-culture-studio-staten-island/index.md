@@ -4,6 +4,10 @@ subtitle: Urban Planning Studio Project
 date: 2022-10-03T23:43:17.471Z
 draft: false
 featured: false
+tags:
+  - Environmental
+  - Urban-Planning
+  - GIS
 image:
   filename: featured.png
   focal_point: Smart
