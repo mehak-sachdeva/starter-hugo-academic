@@ -1,8 +1,7 @@
 ---
-widget: teaching
+widget: experience
 active: true
 date_format: Jan 2006
-
 widget_id: teaching
 headless: true
 weight: 70
