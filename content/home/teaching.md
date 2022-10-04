@@ -13,7 +13,7 @@ experience:
         * Teaching
         
   - title: Instructor
-    company: GIS-322 - Programming Principles in GIS
+    company: GIS-322 - Programming Principles in GIS II
     location: ASU, online
     date_start: 2022-06-05
     date_end: 2022-07-06
@@ -21,6 +21,50 @@ experience:
         Responsibilities include:
         * Teaching
 
+  - title: Instructor
+    company: GIS-211 - Geographic Information Science II
+    location: ASU, Tempe
+    date_start: 2021-08-05
+    date_end: 2021-12-06
+    description: |-2
+        Responsibilities include:
+        * Teaching
+
+  - title: Instructor
+    company: GIS-322 - Programming Principles in GIS II
+    location: ASU, online
+    date_start: 2021-06-05
+    date_end: 2021-07-06
+    description: |-2
+        Responsibilities include:
+        * Teaching
+        
+  - title: Graduate Course - Assistant Developer
+    company: GIS-471 - Spatial Statistics
+    location: ASU, Tempe
+    date_start: 2019-08-05
+    date_end: 2019-12-06
+    description: |-2
+        Responsibilities include:
+        * Teaching
+        
+  - title: Graduate Teaching Assistant
+    company: Advanced GIS
+    location: Columbia University, NYC
+    date_start: 2015-09-05
+    date_end: 2016-05-06
+    description: |-2
+        Responsibilities include:
+        * [Syllabus](https://github.com/juanfrans-courses/advanced-gis/blob/master/Fall_2015/Syllabus.md)
+
+  - title: Graduate Teaching Assistant
+    company: Sustainable Urban Development: International Perspectives
+    location: Columbia University, NYC
+    date_start: 2015-02-05
+    date_end: 2015-05-06
+    description: |-2
+        Responsibilities include:
+        * Assisting with course development
         
 widget_id: teaching
 headless: true
