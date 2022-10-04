@@ -3,7 +3,7 @@ widget: Teaching
 active: true
 date_format: Jan 2006
 experience:
-  - title: Geospatial Data Scientist
+  - title: Co-Instructor
     company: CARTO
     company_url: https://carto.com/
     company_logo: ""
