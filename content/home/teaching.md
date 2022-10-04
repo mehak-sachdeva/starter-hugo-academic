@@ -3,31 +3,25 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: Geospatial Data Scientist
-    company: CARTO
-    company_url: https://carto.com/
+  - title: Co-Instructor
+    company: GIS-563: Local Statistical Modeling
+    company_url: ""
     company_logo: ""
-    location: Brooklyn, NYC
-    date_start: 2016-06-06
-    date_end: 2017-08-08
+    location: ASU, Tempe
+    date_start: 2022-10-10
+    date_end: 202-12-08
+    description: |-2
+       
+  - title: Instructor
+    company: GIS-322: Programming Principles in GIS
+    company_url: ""
+    company_logo: ""
+    location: ASU, online
+    date_start: 2022-06-05
+    date_end: 2022-07-06
     description: |-2
         Responsibilities include:
 
-        * Analysing
-        * Modeling
-        * Deploying new tools within the Carto environment
-        * Contributing to Carto Academy
-  - title: Education and Data Intern
-    company: CARTO
-    company_url: https://carto.com/
-    company_logo: ""
-    location: Brooklyn, NYC
-    date_start: 2016-05-05
-    date_end: 2016-06-06
-    description: |-2
-        Responsibilities include:
-        * Analysing
-        * Modeling
         
 widget_id: teaching
 headless: true
