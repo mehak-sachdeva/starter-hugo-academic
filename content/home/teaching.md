@@ -11,7 +11,7 @@ experience:
     description: |-2
         Description:
         * Concepts on local statistical modeling
-        * Implementing related software and understanding inference
+        * Teaching how to implementing related software and understand inference
         
   - title: Instructor
     company: GIS-322 - Programming Principles in GIS II
