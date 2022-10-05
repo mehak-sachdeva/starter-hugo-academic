@@ -4,6 +4,9 @@ subtitle: Urban Design and Historic Preservation Project, India (2012)
 date: 2022-10-04T23:46:08.735Z
 draft: false
 featured: false
+tags:
+  - Architectural
+  - Urban-Planning
 image:
   filename: featured.jpg
   focal_point: Smart
