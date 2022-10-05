@@ -33,7 +33,7 @@ experience:
         * [Syllabus](https://drive.google.com/file/d/1YYL8c8NmmsSyUG0oV5jyNNrDzBLstER_/view?usp=sharing)
         * [Evaluations](https://drive.google.com/file/d/1qyzYu6V5kV0QaaaW8ykDW0iQj9gEYyKc/view?usp=sharing)
 
-  - title: Instructor
+  - title: Co-Instructor
     company: GIS-322 - Programming Principles in GIS II
     location: ASU, Online
     date_start: 2021-07-01
