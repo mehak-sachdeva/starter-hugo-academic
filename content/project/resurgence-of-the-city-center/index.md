@@ -5,7 +5,7 @@ date: 2022-10-04T23:46:08.735Z
 draft: false
 featured: false
 tags:
-  - Architectural
+  - Architecture
   - Urban-Planning
 image:
   filename: featured.jpg
