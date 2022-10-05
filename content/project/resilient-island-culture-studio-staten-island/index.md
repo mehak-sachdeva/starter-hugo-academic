@@ -1,6 +1,6 @@
 ---
 title: Resilient Island Culture Studio, Staten Island
-subtitle: Urban Planning Studio Project
+subtitle: Urban Planning Studio Project (2015)
 date: 2022-10-03T23:43:17.471Z
 draft: false
 featured: false
