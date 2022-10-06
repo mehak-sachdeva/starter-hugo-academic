@@ -35,7 +35,8 @@ education:
       institution: Arizona State University
       year: 2022
     - course: Master of Science in Urban Planning
-      institution: Columbia University
+      institution: Columbia University,
+        [Thesis](https://academiccommons.columbia.edu/doihttps://academiccommons.columbia.edu/doi/10.7916/D8G44QDB/10.7916/D8G44QDB)
       year: 2016
     - course: Bachelor of Architecture
       institution: The Maharaja Sayajirao University of Baroda, India
