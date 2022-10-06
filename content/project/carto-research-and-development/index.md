@@ -11,4 +11,4 @@ image:
 ---
 ### S﻿pace-time Autocorrelation using NYC taxi data (2015)
 
-This project explores spatial and temporal autocorrelation. Open-source yellow taxi trip data for the year 2015 was aggregated to a 50m * 50m grid across NYC. This grid has aggregations of trip statistics for every hour of every day for every month of 2015. The idea is to explore spatial and temporal hotspots of activity across the city. The analysis uses PostGIS, PostgreSQL, Python (pysal package) and CARTO.
+<div style="text-align: justify">This project explores spatial and temporal autocorrelation. Open-source yellow taxi trip data for the year 2015 was aggregated to a 50m * 50m grid across NYC. This grid has aggregations of trip statistics for every hour of every day for every month of 2015. The idea is to explore spatial and temporal hotspots of activity across the city. The analysis uses PostGIS, PostgreSQL, Python (pysal package) and CARTO.</div>
