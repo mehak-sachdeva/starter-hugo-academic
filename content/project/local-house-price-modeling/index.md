@@ -6,6 +6,9 @@ subtitle: "Publication: Sachdeva, Fotheringham & Li (2022). Do places have
 date: 2022-10-06T21:28:56.828Z
 draft: false
 featured: false
+tags:
+  - Spatial-Statistics
+  - GIS
 image:
   filename: featured.png
   focal_point: Smart
