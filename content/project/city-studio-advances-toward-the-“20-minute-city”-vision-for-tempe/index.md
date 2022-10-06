@@ -4,6 +4,10 @@ subtitle: January-May 2019
 date: 2022-10-06T20:14:56.864Z
 draft: false
 featured: false
+tags:
+  - GIS
+  - Urban-Planning
+  - Transportation
 image:
   filename: featured.png
   focal_point: Smart
