@@ -22,7 +22,9 @@ This project explores spatial and temporal autocorrelation. Open-source yellow t
 
 (﻿Add more on space time moran's I)
 
-###### Exploring immigrant visa reforms in USA
+### Exploring immigrant work visa reforms in USA
+
+###### 
 [Link to b﻿log post published by CARTO](https://carto.com/blog/examining-potential-impact-of-h-1b-reform-data-visualizations/)
 
 [![h1b_visa](../../h1b_visa.PNG)](https://team.carto.com/u/mehak-carto/builder/c3f5efc4-0995-11e7-b8b8-0e233c30368f/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B-58.813741715707806%2C-138.16406250000003%5D%2C%22sw%22%3A%5B68.2042121888185%2C133.24218750000003%5D%2C%22center%22%3A%5B10.574222078332806%2C-2.4609375000000004%5D%2C%22zoom%22%3A3%7D%7D)
