@@ -30,3 +30,9 @@ The maps below were for a two-part collaborative workshop using Citi bike data, 
 [![space-time](../../citibike.gif)](https://team.carto.com/u/mehak-carto/builder/584986d2-2bb9-11e7-afcc-0e05a8b3e3d7/embed)
 
 ![space-time](../../d3-camp.gif)
+
+Other projects
+
+This project is an implementation of API.AI, a natural language interactions platform to make a bot that responds to simple sentences and makes maps. It is driven by a node.js app that extracts a “measure” from the sentence asked, geocodes the city of input, queries that measure for census tracts in the city from CARTO’s Data Observatory and maps it using the Maps API. As a first pass it was an internal slack integration to help train it more and scope further development.
+
+![space-time](../../api-bot.gif)
