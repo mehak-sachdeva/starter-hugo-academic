@@ -38,7 +38,7 @@ This post was also published in [technical.ly brooklyn](https://technical.ly/civ
 
 ### Random Forest Regressor
 
-As a part of developing new analysis tools within CARTO, this project involved exploring machine learning techniques suitable for spatial predictions and its implementation. We used gradient boosting to build an analysis tool that took feature variables as input to predict a target variable in a dataset. A second pass involved adding spatial lag to the technique to enhance prediction accuracy for spatially related features. The map is an example using this tool to predict WeWork desk prices using density and type of use in the area. The tool is currently internal only.
+As a part of developing new analysis tools within CARTO, this project involved exploring machine learning techniques suitable for spatial predictions and its implementation. We used gradient boosting to build an analysis tool that took feature variables as input to predict a target variable in a dataset. A second pass involved adding spatial lag to the technique to enhance prediction accuracy for spatially related features. The map is an example using this tool to predict WeWork desk prices using density and type of use in the area. The tool is currently internal only.[Pull request linked](https://github.com/CartoDB/crankshaft/pull/171)
 
 [![gradient](../../gradient.PNG)](https://team.carto.com/u/mehak-carto/builder/b407d037-4144-43f8-a8fb-b62221109c15/embed)
 
