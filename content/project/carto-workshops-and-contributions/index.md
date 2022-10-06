@@ -17,6 +17,6 @@ M﻿y first contribution to the CARTO environment was to develop materials for t
 
 ### CartoCamp Meetup workshops
 
-[!﻿[leaf](../../leaflet.gif)](http://bl.ocks.org/mehak-sachdeva/raw/503588cc042fd4b5500128034beae71a/)
+[!﻿[leaf](../../voting.gif)](http://bl.ocks.org/mehak-sachdeva/raw/503588cc042fd4b5500128034beae71a/)
 
 As a part of exploring visualization tools I held several workshops at the CartoCamp Meetup. The map above is an implementation of primary election data using leaflet and charts.js. The maps below were for a two-part collaborative workshop using Citibike data, Google Maps API (for routing between origin-destination pairs) and d3.js for visualization of routing data.
