@@ -37,6 +37,7 @@ education:
     - course: Master of Science in Urban Planning
       institution: Columbia University
       year: 2016
+      [Thesis](https://academiccommons.columbia.edu/doi/10.7916/D8G44QDB)
     - course: Bachelor of Architecture
       institution: The Maharaja Sayajirao University of Baroda, India
       year: 2013
