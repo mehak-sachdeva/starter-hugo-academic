@@ -35,3 +35,15 @@ This analysis explored possible ramifications for the tech industry, and the Ame
 This post was also published in [technical.ly brooklyn](https://technical.ly/civic-news/carto-tackles-h-1b-visa-issue-maps/).
 
 [![h1b_2](../../h1b_2.PNG)](https://public.carto.com/builder/bc290bb1-b159-467c-b947-e6b7b05bbe75/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B19.559790136497412%2C-130.07812500000003%5D%2C%22sw%22%3A%5B52.45600939264076%2C-64.68750000000001%5D%2C%22center%22%3A%5B37.80544394934274%2C-97.3828125%5D%2C%22zoom%22%3A5%7D%7D)
+
+### Random Forest Regressor
+
+As a part of developing new analysis tools within CARTO, this project involved exploring machine learning techniques suitable for spatial predictions and its implementation. We used gradient boosting to build an analysis tool that took feature variables as input to predict a target variable in a dataset. A second pass involved adding spatial lag to the technique to enhance prediction accuracy for spatially related features. The map is an example using this tool to predict WeWork desk prices using density and type of use in the area. The tool is currently internal only.
+
+[![gradient](../../gradient.PNG)](https://team.carto.com/u/mehak-carto/builder/b407d037-4144-43f8-a8fb-b62221109c15/embed)
+
+T﻿he prediction map (linked to the image above) extends across the country covering many cities.
+
+[![sfgradient](../../sfgradient.PNG)](https://team.carto.com/u/mehak-carto/builder/b407d037-4144-43f8-a8fb-b62221109c15/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B37.609335991884876%2C-122.86216735839845%5D%2C%22sw%22%3A%5B38.024295124443995%2C-121.9365692138672%5D%2C%22center%22%3A%5B37.81710713079405%2C-122.39936828613283%5D%2C%22zoom%22%3A11%7D%2C%22widgets%22%3A%7B%22e7fcc176-9638-40aa-adc5-0e402d35b7ab%22%3A%7B%22normalized%22%3Atrue%7D%2C%221d15b03a-d628-46e5-b14f-6025586d5e8c%22%3A%7B%22normalized%22%3Atrue%7D%7D%7D)
+
+
