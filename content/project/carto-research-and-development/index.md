@@ -33,3 +33,5 @@ This project explores spatial and temporal autocorrelation. Open-source yellow t
 
 This analysis explored possible ramifications for the tech industry, and the American economy more generally if the proposed H-1B program (responsible for hiring foreign workers in US) reforms (H.R.670) were to go into effect. Using open government data and analyzing patterns, this blog shows what these changes could mean.
 This post was also published in [technical.ly brooklyn](https://technical.ly/civic-news/carto-tackles-h-1b-visa-issue-maps/).
+
+[![h1b_2](../../h1b_2.PNG)](https://public.carto.com/builder/bc290bb1-b159-467c-b947-e6b7b05bbe75/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B19.559790136497412%2C-130.07812500000003%5D%2C%22sw%22%3A%5B52.45600939264076%2C-64.68750000000001%5D%2C%22center%22%3A%5B37.80544394934274%2C-97.3828125%5D%2C%22zoom%22%3A5%7D%7D)
