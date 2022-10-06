@@ -21,6 +21,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ms4978/
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Mehak-Sachdeva-2
+    icon_pack: ai
+    icon: researchgate
 organizations:
   - name: Spatial Analysis Research Center, ASU
     url: https://sgsup.asu.edu/SPARC
@@ -30,8 +35,7 @@ education:
       institution: Arizona State University
       year: 2022
     - course: Master of Science in Urban Planning
-      institution: Columbia University,
-        [Thesis](https://academiccommons.columbia.edu/doi/10.7916/D8G44QDB)
+      institution: Columbia University
       year: 2016
     - course: Bachelor of Architecture
       institution: The Maharaja Sayajirao University of Baroda, India
