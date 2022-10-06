@@ -31,9 +31,9 @@ organizations:
     url: https://sgsup.asu.edu/SPARC
 education:
   courses:
-    - course: "PhD in Geographic Information Science"
-      institution: "Arizona State [University](https://www.proquest.com/openview/6c19353c1b2eb90ef15eabd75c684d1c/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)"
-      year: "2022"
+    - course: PhD in Geographic Information Science
+      institution: Arizona State University
+      year: 2022
     - course: Master of Science in Urban Planning
       institution: Columbia University
       year: 2016
