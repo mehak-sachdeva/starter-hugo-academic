@@ -46,4 +46,8 @@ T﻿he prediction map (linked to the image above) extends across the country cov
 
 [![sfgradient](../../sfgradient.PNG)](https://team.carto.com/u/mehak-carto/builder/b407d037-4144-43f8-a8fb-b62221109c15/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B37.609335991884876%2C-122.86216735839845%5D%2C%22sw%22%3A%5B38.024295124443995%2C-121.9365692138672%5D%2C%22center%22%3A%5B37.81710713079405%2C-122.39936828613283%5D%2C%22zoom%22%3A11%7D%2C%22widgets%22%3A%7B%22e7fcc176-9638-40aa-adc5-0e402d35b7ab%22%3A%7B%22normalized%22%3Atrue%7D%2C%221d15b03a-d628-46e5-b14f-6025586d5e8c%22%3A%7B%22normalized%22%3Atrue%7D%7D%7D)
 
+### Kriging tool
 
+This project was an exploration of Kriging technique of interpolation as an analysis tool in CARTO. The code used the Python PyKrige package and explored different methods suitable for different kind of data to be interpolated. As an example, this map was inspired by a news article raising concerns of pollution due to Coal-fired power plants in Indiana near Evansville. Air quality data for the area from EPA was used and interpolated to draw correlations of co-existence.
+
+[![kriging](../../kriging.PNG)](https://team.carto.com/u/mehak-carto/builder/1d6a12be-2de7-41b5-96f6-77cb9124c8be/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B27.352252938063845%2C-105.46875000000001%5D%2C%22sw%22%3A%5B44.213709909702054%2C-64.86328125000001%5D%2C%22center%22%3A%5B36.2354121683998%2C-85.166015625%5D%2C%22zoom%22%3A6%7D%7D)
