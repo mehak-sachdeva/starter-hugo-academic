@@ -18,7 +18,7 @@ image:
 
 First, we examine the sensitivity of global and local models to the MAUP and show how the effects of the MAUP in global models are a function of the degree to which processes vary over space. This generates a new insight into the MAUP: it results from the properties of processes rather than the properties of data. Then we highlight the extreme differences that can result when calibrating global and local models and how Simpson’s paradox can arise in this context. In the examination of the MAUP, scale is treated as a measure of the degree to which data are aggregated prior to any form of modeling; in the study of Simpson’s paradox, scale refers to the geographical entity for which a model is calibrated.
 
-<object data="../../scale_presentation_1.pdf" width="100%" height="800" type='application/pdf'></object>
+<object data="../../scale_presentation_1.pdf" width="100%" height="900" type='application/pdf'></object>
 
 Please use the link here if the pdf embed does not load:
 [P﻿roject presentation](https://drive.google.com/file/d/1LMazqqx0fO8nIeUOgs_8bTrNp5Sx7XZ_/view?usp=sharing)
