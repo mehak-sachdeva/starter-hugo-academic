@@ -5,6 +5,9 @@ subtitle: "Publication: Sachdeva, Fotheringham, Li & Yu (2022). Are We Measuring
 date: 2022-10-06T21:49:17.611Z
 draft: false
 featured: false
+tags:
+  - GIS
+  - Spatial-Statistics
 image:
   filename: featured.png
   focal_point: Smart
