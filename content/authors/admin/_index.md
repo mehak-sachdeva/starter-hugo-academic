@@ -31,7 +31,7 @@ organizations:
     url: https://sgsup.asu.edu/SPARC
 education:
   courses:
-    - course: PhD in Geographic Information Science
+    - course: PhD in Geographic Information Science, [Thesis] (https://sourcethemes.com/academic/docs/get-started/)
       institution: Arizona State University
       year: 2022
     - course: Master of Science in Urban Planning
