@@ -30,3 +30,6 @@ This project explores spatial and temporal autocorrelation. Open-source yellow t
 [![h1b_visa](../../h1b_visa.PNG)](https://team.carto.com/u/mehak-carto/builder/c3f5efc4-0995-11e7-b8b8-0e233c30368f/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B-58.813741715707806%2C-138.16406250000003%5D%2C%22sw%22%3A%5B68.2042121888185%2C133.24218750000003%5D%2C%22center%22%3A%5B10.574222078332806%2C-2.4609375000000004%5D%2C%22zoom%22%3A3%7D%7D)
 
 ###### (﻿Image is linked to original map embed)
+
+This analysis explored possible ramifications for the tech industry, and the American economy more generally if the proposed H-1B program (responsible for hiring foreign workers in US) reforms (H.R.670) were to go into effect. Using open government data and analyzing patterns, this blog shows what these changes could mean.
+This post was republished in [technical.ly brooklyn](https://technical.ly/civic-news/carto-tackles-h-1b-visa-issue-maps/).
