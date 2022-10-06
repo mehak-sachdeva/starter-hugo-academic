@@ -37,6 +37,8 @@ content:
       tag: Transportation
     - name: Architecture
       tag: Architecture
+    - name: Spatial Statistics
+      tag: Spatial-Statistics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
