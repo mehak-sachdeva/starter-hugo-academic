@@ -31,14 +31,14 @@ image:
 
 ###### (﻿Image is linked to original map embed)
 
-<div style="text-align: justify"> This analysis explored possible ramifications for the tech industry, and the American economy more generally if the proposed H-1B program (responsible for hiring foreign workers in US) reforms (H.R.670) were to go into effect. Using open government data and analyzing patterns, this blog shows what these changes could mean.
-This post was also published in [technical.ly brooklyn](https://technical.ly/civic-news/carto-tackles-h-1b-visa-issue-maps/).</div>
+This analysis explored possible ramifications for the tech industry, and the American economy more generally if the proposed H-1B program (responsible for hiring foreign workers in US) reforms (H.R.670) were to go into effect. Using open government data and analyzing patterns, this blog shows what these changes could mean.
+This post was also published in [technical.ly brooklyn](https://technical.ly/civic-news/carto-tackles-h-1b-visa-issue-maps/).
 
 [![h1b_2](../../h1b_2.PNG)](https://public.carto.com/builder/bc290bb1-b159-467c-b947-e6b7b05bbe75/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B19.559790136497412%2C-130.07812500000003%5D%2C%22sw%22%3A%5B52.45600939264076%2C-64.68750000000001%5D%2C%22center%22%3A%5B37.80544394934274%2C-97.3828125%5D%2C%22zoom%22%3A5%7D%7D)
 
 ### Random Forest Regressor
 
-<div style="text-align: justify"> As a part of developing new analysis tools within CARTO, this project involved exploring machine learning techniques suitable for spatial predictions and its implementation. We used gradient boosting to build an analysis tool that took feature variables as input to predict a target variable in a dataset. A second pass involved adding spatial lag to the technique to enhance prediction accuracy for spatially related features. The map is an example using this tool to predict WeWork desk prices using density and type of use in the area. The tool is currently internal only.[Pull request linked](https://github.com/CartoDB/crankshaft/pull/171)</div>
+As a part of developing new analysis tools within CARTO, this project involved exploring machine learning techniques suitable for spatial predictions and its implementation. We used gradient boosting to build an analysis tool that took feature variables as input to predict a target variable in a dataset. A second pass involved adding spatial lag to the technique to enhance prediction accuracy for spatially related features. The map is an example using this tool to predict WeWork desk prices using density and type of use in the area. The tool is currently internal only.[Pull request linked](https://github.com/CartoDB/crankshaft/pull/171)
 
 [![gradient](../../gradient.PNG)](https://team.carto.com/u/mehak-carto/builder/b407d037-4144-43f8-a8fb-b62221109c15/embed)
 
