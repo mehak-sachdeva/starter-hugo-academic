@@ -3,7 +3,7 @@ title: Local House Price Modeling
 subtitle: "Publication: Sachdeva, Fotheringham & Li (2022). Do places have
   value? Quantifying the intrinsic value of housing neighborhoods using MGWR.
   Journal of Housing Research 0(0):1–29."
-date: 2022-10-06T21:28:56.828Z
+date: 2020-12-30T22:28:56.828Z
 draft: false
 featured: false
 tags:
