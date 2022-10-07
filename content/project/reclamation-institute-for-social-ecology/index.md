@@ -14,7 +14,7 @@ image:
 ---
 <div style="text-align: justify"> In 2013, deeply concerned about rampant mining in some parts of India and their subsequent abandoning I came across some abandoned asbestos mines, south of the city of Udaipur that had left a toxic trail for the community dwellers to deal with. The exposure to asbestos had left many severely sick through the water they drank and the air they inhaled. I took the situation up, as my architectural design thesis. I was deeply affected to learn that not only do a majority of the mines and their dependent communities end with near disaster, there also were no formal institutions in the country that taught the ways in which the disturbed land be restored. I designed a proposal for setting up an institution that taught while practicing, deriving its pedagogy through its architecture, alleviating the communities off their poverty through skill-building and restoring the land back to its pristine state. Through this project it became evident to me early on in my career that solving for and investing in the people of a community to alleviate poverty induced by external stress often leads to truly sustainable redevelopment.</div>
 
-<object data="../../thesis report po.pdf" width="100%" height="1200" type='application/pdf'></object>
+<object data="../../thesis report po.pdf" width="100%" height="800" type='application/pdf'></object>
 
 Please use the link here if the pdf embed does not load:
 [P﻿roject report](https://drive.google.com/file/d/1n05tRMavNmFHuoGruwhpfqdiSKGgYExG/view?usp=sharing)
