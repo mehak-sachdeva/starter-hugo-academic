@@ -1,7 +1,7 @@
 ---
 title: Efficiency and Accessibility of NYC and Chicago Subway networks
 subtitle: Network Analysis - Advanced GIS study (May, 2015)
-date: 2022-10-03T23:07:29.020Z
+date: 2015-05-19T23:07:29.020Z
 draft: false
 featured: false
 tags:
