@@ -1,7 +1,7 @@
 ---
 title: CARTO - Research and Development
 subtitle: Multiple projects conducted between October 2016 to August 2017 at CARTO
-date: 2022-10-06T00:11:48.222Z
+date: 2017-06-15T00:11:48.222Z
 draft: false
 featured: false
 tags:
