@@ -19,9 +19,9 @@ image:
 Please use the link here if the pdf embed does not load:
 [P﻿roject report](https://drive.google.com/file/d/1n05tRMavNmFHuoGruwhpfqdiSKGgYExG/view?usp=sharing)
 
-My ideas, and solution were appreciated in a variety of groups amongst NGO's, environmentalists and academic circles also being recognized as one of the 10 best theses in India by the National Institute for Advanced Architectural Studies (NIASA), India, published in their yearly theses archives.
+My ideas, and solution were appreciated in a variety of groups amongst NGO's, environmentalists and academic circles also being recognized as one of the 10 best theses in India by the National Institute for Advanced Architectural Studies (NIASA), India, published in their yearly thesis archives.
 
 <object data="../../arch_thesis_small.pdf" width="100%" height="1200" type='application/pdf'></object>
 
 Please use the link here if the pdf embed does not load:
-[COA Archiving Architectural Theses 2013](https://drive.google.com/file/d/1wbgiEAigYbkCODnjgAdv5ITbr7xlru9u/view?usp=sharing)
+[COA Archiving Architectural Thesis 2013](https://drive.google.com/file/d/1wbgiEAigYbkCODnjgAdv5ITbr7xlru9u/view?usp=sharing)
