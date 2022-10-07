@@ -1,7 +1,7 @@
 ---
 title: Local Modeling Perspectives on Scale Issues
 subtitle: Modifiable Areal Unit Problem and Simpson's Paradox
-date: 2022-10-06T22:09:54.430Z
+date: 2022-02-16T23:09:54.430Z
 draft: false
 featured: false
 tags:
