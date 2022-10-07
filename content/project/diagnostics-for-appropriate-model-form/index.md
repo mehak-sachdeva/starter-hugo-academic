@@ -2,7 +2,7 @@
 title: Diagnostics for appropriate model form
 subtitle: "Publication: Sachdeva, Fotheringham, Li & Yu (2022). Are We Measuring
   Spatial Nonstationarity or Nonlinearity. Geographical Analysis."
-date: 2022-10-06T21:49:17.611Z
+date: 2021-11-30T22:49:17.611Z
 draft: false
 featured: false
 tags:
