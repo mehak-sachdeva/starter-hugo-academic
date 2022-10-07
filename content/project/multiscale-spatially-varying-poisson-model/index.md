@@ -1,7 +1,7 @@
 ---
 title: Multiscale Spatially Varying Poisson Model
 subtitle: Ongoing project
-date: 2022-10-06T22:48:24.785Z
+date: 2022-05-11T22:48:24.785Z
 draft: false
 featured: false
 tags:
