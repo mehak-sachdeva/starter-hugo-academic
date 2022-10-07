@@ -1,7 +1,7 @@
 ---
 title: Reclamation Institute for Social Ecology
 subtitle: Architectural thesis (2013)
-date: 2022-10-04T22:14:09.804Z
+date: 2013-06-12T22:14:09.804Z
 draft: false
 featured: false
 tags:
