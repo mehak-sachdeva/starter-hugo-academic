@@ -1,7 +1,7 @@
 ---
 title: Resurgence of the City Center
 subtitle: Urban Design and Historic Preservation Project, India (2012)
-date: 2022-10-04T23:46:08.735Z
+date: 2012-10-17T23:46:08.735Z
 draft: false
 featured: false
 tags:
