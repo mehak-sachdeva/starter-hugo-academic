@@ -27,8 +27,7 @@ social:
     icon_pack: ai
     icon: researchgate
 organizations:
-  - name: Center for Urban Science and Progress, Tandon School of Engineering, New
-      York University
+  - name: Center for Urban Science and Progress, Tandon School of Engineering, NYU
     url: https://cusp.nyu.edu/people/researchers/
 education:
   courses:
