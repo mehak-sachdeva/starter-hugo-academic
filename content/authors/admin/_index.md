@@ -8,7 +8,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: far
-    link: mailto:mehaksachdeva@asu.edu
+    link: mailto:mehaksachdeva@nyu.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/MehakSachdeva_
