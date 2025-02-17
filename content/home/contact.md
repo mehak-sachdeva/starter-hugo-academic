@@ -25,7 +25,7 @@ content:
      # captcha: false
 
   # Contact details (edit or remove options as required)
-  email: mehaksachdeva@asu.edu
+  email: mehak.sachdeva@fsu.edu
   #phone: 888 888 88 88
   #address:
     #street: 450 Serra Mall
@@ -41,7 +41,7 @@ content:
   #office_hours:
     #- 'Monday 10:00 to 13:00'
     #- 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com/msachde1/30min'
+  #appointment_url: 'https://calendly.com/msachde1/30min'
   contact_links:
     - icon: twitter
       icon_pack: fab
