@@ -1,6 +1,6 @@
 ---
 title: Mehak Sachdeva
-role: Urban Science Faculty Fellow
+role: Assistant Professor of Urban Science
 avatar_filename: avatar.png
 bio: My research interests include spatial statistical methods with applications
   in the social, urban and environmental sciences.
@@ -8,7 +8,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: far
-    link: mailto:mehaksachdeva@nyu.edu
+    link: mailto:mehak.sachdeva@fsu.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/MehakSachdeva_
@@ -27,9 +27,9 @@ social:
     icon_pack: ai
     icon: researchgate
 organizations:
-  - name: Center for Urban Science and Progress, Tandon School of Engineering, New
-      York University
-    url: https://cusp.nyu.edu/people/researchers/
+  - name: Department of Urban and Regional Planning, College of Social Sciences and
+      Public Policy, Florida State University
+    url: https://cosspp.fsu.edu/durp/faculty/mehak-sachdeva/
 education:
   courses:
     - course: PhD in Geographic Information Science
@@ -47,7 +47,12 @@ highlight_name: true
 ---
 <!---<iframe src="https://team.carto.com/u/mehak-carto/builder/30609f6c-3b35-11e7-952f-0e05a8b3e3d7/embed" height="500" width=100%></iframe>--->
 
-<p style='text-align: justify;'> I am an Urban Science Faculty Fellow at the Center for Urban Science and Progress at New York University. I recently completed  a PostDoc and PhD in Geographic Information Science at the Spatial Analysis Research Center (ASU) with a focus on computational methods and local regression models to analyze urban processes with applications in crime, housing markets and urban health outcomes amongst others. I have prior experience as a geospatial data scientist at Carto (a SaaS web-mapping platform) and have a graduate degree in urban planning and analytics from Columbia University and an undergraduate degree and professional background in architecture. As a passionate researcher and an urban enthusiast, everything I have engaged in so far has been driven by a keen interest in the coexistence of urbanity and ecology and the impact of human footprint on the environment. In my spare time I run, hike, paint and read.</p>
+<p style='text-align: justify;'> 
+
+My research develops spatially explicit methods and models to analyze how spatial context and social interactions affect human behavior, choices, and decision-making, especially pertaining to understanding social phenomena such as election outcomes, disease spread, resilience to natural hazard vulnerability, and social dynamics leading to residential choices. Relatedly, my research also delves into the measurement of the spatial extent/scale across which such place-based contextual effects might vary and how such spatial variances could help inform tangible, place-based social policy interventions. My research hence lies at the intersection of spatial statistics, computational social science, and urban planning and social policy.
+I earned my doctorate in Geographic Information Science from Arizona State University in 2022. Prior to joining FSU, I was an Urban Science Faculty Fellow at the Center for Urban Science + Progress at NYU and previously held a postdoctoral research position at the Spatial Analysis Research Center at ASU. Prior to pursuing academia, I had experience working at Carto, a web-mapping software company, and key government organizations such as the New York City Economic Development Cooperation and the New York City Planning Department at Staten Island. 
+
+As a passionate researcher and an urban enthusiast, everything I have engaged in so far has been driven by a keen interest in the coexistence of urbanity and ecology and the impact of human footprint on the environment. In my spare time I run, hike, paint and read.</p>
 
 Representative research on a geographical perspective on Simpson's Paradox and the scale of processes between local and global models:
 
