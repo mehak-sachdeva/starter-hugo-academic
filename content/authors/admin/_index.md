@@ -49,8 +49,6 @@ highlight_name: true
 
 <p style='text-align: justify;'> 
 
-
-
 My research develops spatially explicit methods and models to analyze how spatial context and social interactions affect human behavior, choices, and decision-making, especially pertaining to understanding social phenomena such as election outcomes, disease spread, resilience to natural hazard vulnerability, and social dynamics leading to residential choices. Relatedly, my research also delves into the measurement of the spatial extent/scale across which such place-based contextual effects might vary and how such spatial variances could help inform tangible, place-based social policy interventions. My research hence lies at the intersection of spatial statistics, computational social science, and urban planning and social policy.
 I earned my doctorate in Geographic Information Science from Arizona State University in 2022. Prior to joining FSU, I was an Urban Science Faculty Fellow at the Center for Urban Science + Progress at NYU and previously held a postdoctoral research position at the Spatial Analysis Research Center at ASU. Prior to pursuing academia, I had experience working at Carto, a web-mapping software company, and key government organizations such as the New York City Economic Development Cooperation and the New York City Planning Department at Staten Island. 
 
