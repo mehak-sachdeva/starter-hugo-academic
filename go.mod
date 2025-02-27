@@ -1,5 +1,3 @@
-#module github.com/wowchemy/starter-hugo-academic
-
 module github.com/mehak-sachdeva/starter-hugo-academic
 
 go 1.19
