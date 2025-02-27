@@ -1,6 +1,6 @@
 ---
 title: Mehak Sachdeva
-role: Assistant Professor of Urban Science
+role: Assistant Professor o Urban Science
 avatar_filename: avatar.png
 bio: My research interests include spatial statistical methods with applications
   in the social, urban and environmental sciences.
